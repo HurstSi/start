@@ -21,7 +21,10 @@
     <ClCompile Include="doing.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="最大公约数最小公约数.cpp">
+      <Filter>保存</Filter>
+    </ClCompile>
+    <ClCompile Include="求pi近似的值.cpp">
       <Filter>保存</Filter>
     </ClCompile>
   </ItemGroup>

@@ -116,7 +116,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="doing.cpp" />
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="最大公约数最小公约数.cpp" />
+    <ClCompile Include="求pi近似的值.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
