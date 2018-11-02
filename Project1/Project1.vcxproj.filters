@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.cpp">
+    <ClCompile Include="doing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求方程的根.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
