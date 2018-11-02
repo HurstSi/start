@@ -14,4 +14,4 @@ int main()
  //end
 	cout << "最小公倍数：" << g << endl;
 	return 0;
-}++++++++++++++++
+}
