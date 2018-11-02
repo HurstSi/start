@@ -27,5 +27,8 @@
     <ClCompile Include="求pi近似的值.cpp">
       <Filter>保存</Filter>
     </ClCompile>
+    <ClCompile Include="求完全数.cpp">
+      <Filter>保存</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

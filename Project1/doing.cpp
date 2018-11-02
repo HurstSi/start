@@ -1,9 +1,10 @@
-#include<iostream> 
+#include <iostream>
 using namespace std;
 int main()
 {
-	//start
-	//end
-	cout << "\n共有完全数" << num << "个" << endl;
+	int n;
+
+	cout << "输入n:";
+	cout << "s=1+(1+2)+(1+2+3)+…+(1+2+3+…+" << n << ")=" << s << endl;
 	return 0;
 }
