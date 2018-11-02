@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -13,4 +13,4 @@ int main()
 	cout << "s=1+(1+2)+(1+2+3)+бн+(1+2+3+бн+" << n << ")=" << s << endl;
 	system("pause");
 	return 0;
-}*/
+}

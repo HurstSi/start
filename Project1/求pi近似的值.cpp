@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<math.h>
 using namespace std;
 int main()
@@ -12,4 +12,4 @@ int main()
 	cout << "π的值为" << pi << ",n的值为:" << 281 << endl;
 	system("pause");
 	return 0;
-}*/
+}

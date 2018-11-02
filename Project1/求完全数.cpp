@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<math.h>
 using namespace std;
 int main()
@@ -29,4 +29,4 @@ int main()
 	cout << "\n共有完全数" << num << "个" << endl;
 	system("pause");
 	return 0;
-}*/
+}

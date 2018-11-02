@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <cmath>
 using namespace std;
 {
@@ -23,4 +23,3 @@ using namespace std;
 	system("pause");
 	return 0;
 }
-*/
