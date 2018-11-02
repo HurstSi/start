@@ -1,7 +1,6 @@
-#include <iostream>
+/*#include <iostream>
 #include <cmath>
 using namespace std;
-int main()
 {
 	int x, y, a, b;
 	int m, n, r, g = 0;
@@ -24,3 +23,4 @@ int main()
 	system("pause");
 	return 0;
 }
+*/

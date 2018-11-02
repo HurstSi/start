@@ -1,26 +1,12 @@
 #include <iostream>
-#include <cmath>
 using namespace std;
 int main()
 {
-	int x, y,a,b;
-	int m, n, r, g=0;
-	cout << "输入2个数x,y：" << endl;
-	cin >> x>>y;
-	r = 1;
-	m = (x >= y ? x : y);
-	n = (x >= y ? y : x);
-	a = m;
-	b = n;
-	while(r!=0)
+	int sum=0;
+	for (int i = 1; i <= 99; i = i + 2)
 	{
-		r = m % n;
-		m = n;
-		n = r;
+		sum = sum + i;
 	}
-	g = a * b / m;
-	cout << "最大公约数：" << m << endl;
-	cout << "最小公倍数：" << g << endl;
-	system("pause");
+	cout << "sum=" << sum << "\n";
 	return 0;
 }
