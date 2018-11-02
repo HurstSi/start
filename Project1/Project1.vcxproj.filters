@@ -13,13 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="保存">
+      <UniqueIdentifier>{28dbd95c-a7aa-4eea-a864-a6edaf317577}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="doing.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="求方程的根.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="test.cpp">
+      <Filter>保存</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

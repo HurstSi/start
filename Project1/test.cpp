@@ -3,16 +3,16 @@
 using namespace std;
 int main()
 {
-	int x, y,a,b;
-	int m, n, r, g=0;
+	int x, y, a, b;
+	int m, n, r, g = 0;
 	cout << "ÊäÈë2¸öÊýx,y£º" << endl;
-	cin >> x>>y;
+	cin >> x >> y;
 	r = 1;
 	m = (x >= y ? x : y);
 	n = (x >= y ? y : x);
 	a = m;
 	b = n;
-	while(r!=0)
+	while (r != 0)
 	{
 		r = m % n;
 		m = n;
