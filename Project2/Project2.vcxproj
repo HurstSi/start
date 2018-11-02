@@ -115,12 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Project1\中值.cpp" />
-    <ClCompile Include="..\Project1\最后一位非0的数.cpp" />
-    <ClCompile Include="..\Project1\最大公约数最小公约数.cpp" />
-    <ClCompile Include="..\Project1\求pi近似的值.cpp" />
-    <ClCompile Include="..\Project1\求完全数.cpp" />
-    <ClCompile Include="..\Project1\求累加的和.cpp" />
+    <ClCompile Include="求pi近似的值.cpp" />
     <ClCompile Include="求累乘法最后一位数字.cpp" />
     <ClCompile Include="源.cpp" />
   </ItemGroup>

@@ -21,5 +21,23 @@
     <ClCompile Include="doing.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="求pi近似的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求累加的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求完全数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大公约数最小公约数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最后一位非0的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
