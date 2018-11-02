@@ -13,5 +13,6 @@ int main()
 	}
 	cout << s;
 	system("pause");
+	
 	return 0;
 }
