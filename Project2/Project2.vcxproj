@@ -117,9 +117,11 @@
   <ItemGroup>
     <ClCompile Include="0-m随便三个数不重复能组成多少个偶数.cpp" />
     <ClCompile Include="中值.cpp" />
+    <ClCompile Include="字母变换.cpp" />
     <ClCompile Include="最大公约数与最小公倍数.cpp" />
     <ClCompile Include="求pi近似的值.cpp" />
     <ClCompile Include="求完全数.cpp" />
+    <ClCompile Include="求最大公约数和最小公倍数用函数方法.cpp" />
     <ClCompile Include="求累乘法最后一位数字.cpp" />
     <ClCompile Include="求累加的和.cpp" />
     <ClCompile Include="源.cpp" />

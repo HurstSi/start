@@ -39,5 +39,11 @@
     <ClCompile Include="0-m随便三个数不重复能组成多少个偶数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="字母变换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最大公约数和最小公倍数用函数方法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

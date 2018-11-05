@@ -1,18 +1,14 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
+int prime(int n);          //函数声明
 int main()
 {
-	int n, i, s = 1;
-	cin >> n;
-	for (i = 1; i <= n; i++)
-	{
-		s *= i;
-		while (s % 10 == 0)
-			s /= 10;
-		s = s % 10;
-	}
-	cout << s;
-	system("pause");
-	
+	int m;
+	cout << "输入一个整数:" << endl;
+	cin >> m;
+	if (prime(m))     	//根据prime函数的返回值输出相应信息
+		cout << m << "是素数";
+	else
+		cout << m << "不是素数";
 	return 0;
 }
