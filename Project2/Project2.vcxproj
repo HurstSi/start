@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="0-m随便三个数不重复能组成多少个偶数.cpp" />
     <ClCompile Include="中值.cpp" />
     <ClCompile Include="最大公约数与最小公倍数.cpp" />
     <ClCompile Include="求pi近似的值.cpp" />

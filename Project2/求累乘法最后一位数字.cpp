@@ -2,16 +2,16 @@
 using namespace std;
 int main()
 {
-	int n, i, s = 1;
+	int n, i, j, s = 1, sum = 0;
 	cin >> n;
 	for (i = 1; i <= n; i++)
 	{
-		s *= i;
-		while (s % 10 == 0)
-			s /= 10;
-		s = s % 10;
+		for (j = 1, s = 1; j <= i; j++)
+		{
+			s *= j;
+		}
+		sum += s;
 	}
-	cout << s;
-	system("pause");
+	cout << sum;
 	return 0;
 }
