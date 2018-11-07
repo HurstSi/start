@@ -52,9 +52,9 @@ void root(float a, float b, float d)
 {
 	float x1, x2;
 	//start
-	x1 = (-b + sqrt(d)) / 2*a;
-	x2 = (-b - sqrt(d)) / 2*a;
-  //end
+	x1 = (-b + sqrt(d)) / 2 * a;
+	x2 = (-b - sqrt(d)) / 2 * a;
+	//end
 	cout << "has two real roots:\n";
 	cout << "x1=" << x1 << ",x2=" << x2 << endl;
 }
@@ -65,7 +65,7 @@ void root1(float a, float b, float d)
 	float x1, x2, jp, ip;
 	jp = -b / (2 * a);
 	ip = sqrt(-d) / (2 * a);
-//end
+	//end
 	cout << "has two complex roots:\n";
 	cout << "x1=" << jp << "+" << ip << "i\n";
 	cout << "x2=" << jp << "-" << ip << "i\n";

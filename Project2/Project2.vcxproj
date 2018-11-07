@@ -125,6 +125,8 @@
     <ClCompile Include="求累乘法最后一位数字.cpp" />
     <ClCompile Include="求累加的和.cpp" />
     <ClCompile Include="源.cpp" />
+    <ClCompile Include="判断一个数是不是素数.cpp" />
+    <ClCompile Include="用函数求方程的根.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
