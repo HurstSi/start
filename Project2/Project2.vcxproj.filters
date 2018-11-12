@@ -57,5 +57,23 @@
     <ClCompile Include="最大公约数与最小公倍数.cpp">
       <Filter>源文件\函数</Filter>
     </ClCompile>
+    <ClCompile Include="判断是否闰年.cpp">
+      <Filter>源文件\start</Filter>
+    </ClCompile>
+    <ClCompile Include="输出日历.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="正在做的三个数最大值.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="删除字符.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="猜随机数.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="反向输出一个数.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
