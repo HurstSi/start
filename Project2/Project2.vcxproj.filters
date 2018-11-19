@@ -75,5 +75,14 @@
     <ClCompile Include="反向输出一个数.cpp">
       <Filter>源文件\函数</Filter>
     </ClCompile>
+    <ClCompile Include="三角形的面积.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="统计各字符的个数.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

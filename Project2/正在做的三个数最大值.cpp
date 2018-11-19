@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 int max(int a, int b);
-int max(int a, int b, int c);
-double max(double m, double n);
-double max(double m, double n, double t);
+//int max(int a, int b, int c);
+//double max(double m, double n);
+//double max(double m, double n, double t);
 int main()
 {
 	int a, b, c;

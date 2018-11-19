@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="0-m随便三个数不重复能组成多少个偶数.cpp" />
+    <ClCompile Include="三角形的面积.cpp" />
     <ClCompile Include="中值.cpp" />
     <ClCompile Include="判断是否闰年.cpp" />
     <ClCompile Include="反向输出一个数.cpp" />
@@ -132,7 +133,9 @@
     <ClCompile Include="删除字符.cpp" />
     <ClCompile Include="猜随机数.cpp" />
     <ClCompile Include="用函数求方程的根.cpp" />
+    <ClCompile Include="统计各字符的个数.cpp" />
     <ClCompile Include="输出日历.cpp" />
+    <ClCompile Include="进制转换.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
