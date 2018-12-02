@@ -84,5 +84,23 @@
     <ClCompile Include="进制转换.cpp">
       <Filter>源文件\函数</Filter>
     </ClCompile>
+    <ClCompile Include="i+1除以i的阶乘.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="用静态变量表示阶乘.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="距离公式.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="数字倒序输出.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵变换.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="圆环求四项和最大.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
