@@ -102,5 +102,8 @@
     <ClCompile Include="圆环求四项和最大.cpp">
       <Filter>源文件\函数</Filter>
     </ClCompile>
+    <ClCompile Include="3次输入密码.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

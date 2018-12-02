@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="0-m随便三个数不重复能组成多少个偶数.cpp" />
+    <ClCompile Include="3次输入密码.cpp" />
     <ClCompile Include="i+1除以i的阶乘.cpp" />
     <ClCompile Include="三角形的面积.cpp" />
     <ClCompile Include="中值.cpp" />
