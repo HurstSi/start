@@ -2,9 +2,9 @@
 #include<iostream>
 using namespace std;
 const int N = 30;
-double average(int c[],int m)
+double average(int c[], int m)
 {
-	int sum=0;
+	int sum = 0;
 	for (int k = 0; k < m; k++)
 	{
 		sum = sum + c[k];

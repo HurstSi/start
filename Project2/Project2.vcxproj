@@ -129,6 +129,7 @@
     <ClCompile Include="正在做的三个数最大值.cpp" />
     <ClCompile Include="求pi近似的值.cpp" />
     <ClCompile Include="求完全数.cpp" />
+    <ClCompile Include="求平均数.cpp" />
     <ClCompile Include="求最大公约数和最小公倍数用函数方法.cpp" />
     <ClCompile Include="求累乘法最后一位数字.cpp" />
     <ClCompile Include="求累加的和.cpp" />

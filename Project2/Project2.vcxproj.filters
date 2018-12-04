@@ -105,5 +105,8 @@
     <ClCompile Include="3次输入密码.cpp">
       <Filter>源文件\函数</Filter>
     </ClCompile>
+    <ClCompile Include="求平均数.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
