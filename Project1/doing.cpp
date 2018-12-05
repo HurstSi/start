@@ -1,30 +1,16 @@
-//求平均值
-#include<iostream>
+#include <iostream>
 using namespace std;
-const int N = 30;
-double average(int c[],int m)
-{
-	int sum=0;
-	for (int k = 0; k < m; k++)
-	{
-		sum = sum + c[k];
-	}
-	double average;
-	average = (double)sum / m;
-	return average;
-}
 int main()
 {
-	int c[N], n;
-	cout << "输入数据的个数:" << endl;
-	cin >> n;
-	cout << "输入" << n << "个数据:" << endl;
-	for (int i = 0; i < n; i++)
-	{
-		cin >> c[i];
-	}
-	average(c, n);
-	cout << n << "个数的平均值为:" << average(c, n) << endl;//函数调用
-	system("pause");
+	int a[8];
+	for (int i = 0; i < 8; i++)
+		cin >> a[i];
+	int max_i, min_i;
+
+	cout << "输入数组的8个整数:" << endl;
+
+	cout << "最大值:" << a[max_i] << ",最大值是第" << max_i + 1 << "个数" << endl;
+	cout << "最小值:" << a[min_i] << ",最小值是第" << min_i + 1 << "个数" << endl;
+	cout << endl;
 	return 0;
 }

@@ -125,6 +125,8 @@
     <ClCompile Include="圆环求四项和最大.cpp" />
     <ClCompile Include="字母变换.cpp" />
     <ClCompile Include="数字倒序输出.cpp" />
+    <ClCompile Include="数猴子 2.cpp" />
+    <ClCompile Include="数猴子.cpp" />
     <ClCompile Include="最大公约数与最小公倍数.cpp" />
     <ClCompile Include="正在做的三个数最大值.cpp" />
     <ClCompile Include="求pi近似的值.cpp" />
@@ -142,6 +144,7 @@
     <ClCompile Include="矩阵变换.cpp" />
     <ClCompile Include="统计各字符的个数.cpp" />
     <ClCompile Include="距离公式.cpp" />
+    <ClCompile Include="输出方阵.cpp" />
     <ClCompile Include="输出日历.cpp" />
     <ClCompile Include="进制转换.cpp" />
   </ItemGroup>

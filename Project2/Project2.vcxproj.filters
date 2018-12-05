@@ -19,6 +19,9 @@
     <Filter Include="源文件\start">
       <UniqueIdentifier>{34535e70-67b5-455f-8054-2587e7755582}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\结构功能">
+      <UniqueIdentifier>{88159c2e-3db4-42bd-a741-22417211df0a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="判断一个数是不是素数.cpp">
@@ -107,6 +110,15 @@
     </ClCompile>
     <ClCompile Include="求平均数.cpp">
       <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="数猴子.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="数猴子 2.cpp">
+      <Filter>源文件\函数</Filter>
+    </ClCompile>
+    <ClCompile Include="输出方阵.cpp">
+      <Filter>源文件\结构功能</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
