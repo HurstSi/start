@@ -1,16 +1,65 @@
-#include <iostream>
-using namespace std;
+#include <iostream>   // 包含头文件iostream
+#include <cstring>
+using namespace std;  // 使用命名空间std
+class Car
+{
+public:
+	Car();
+	Car(int pId, char* pBrand, float pPower, int pNumOfPersons);
+	Car(Car& car);
+private:
+	int id;
+	char* brand;
+	float power;
+	int numOfPersons;
+};
+
+Car::Car()
+{
+	cout << "Constructed without any parameter." << endl;
+}
+Car::Car(int pId, char* pBrand, float pPower, int pNumOfPersons)
+{
+	id = pId;
+	brand = pBrand;
+	power = pPower;
+	numOfPersons = pNumOfPersons;
+	cout << "Constructed with all parameters." << endl;
+}
+Car::Car(Car& car)
+{
+	//start
+// 对成员数据赋值
+//end
+	cout << "Deep Constucted." << endl;
+}
+Car::~Car()
+{
+	delete[] brand;
+	cout << "Deconstructed." << endl;
+}
+void Car::printCar()
+{
+	cout << "id: " << id << ", "
+		<< "brand: " << brand << ", "
+		<< "power: " << power << ", "
+		<< "numOfPersons: " << numOfPersons << endl;
+}
+void Car::setId(int pId)
+{
+	//start
+// 对汽车的id赋值
+//end
+}
 int main()
 {
-	int a[8];
-	for (int i = 0; i < 8; i++)
-		cin >> a[i];
-	int max_i, min_i;
-
-	cout << "输入数组的8个整数:" << endl;
-
-	cout << "最大值:" << a[max_i] << ",最大值是第" << max_i + 1 << "个数" << endl;
-	cout << "最小值:" << a[min_i] << ",最小值是第" << min_i + 1 << "个数" << endl;
-	cout << endl;
+	Car car1(1001, "丰田", 1.8f, 5);
+	Car car2 = car1;
+	car2.setId(1002);
+	Car car3 = car1;
+	car3.setId(1003);
+	car1.printCar();
+	car2.printCar();
+	car3.printCar();
 	return 0;
 }

@@ -120,5 +120,20 @@
     <ClCompile Include="输出方阵.cpp">
       <Filter>源文件\结构功能</Filter>
     </ClCompile>
+    <ClCompile Include="统计字母的个数.cpp">
+      <Filter>源文件\结构功能</Filter>
+    </ClCompile>
+    <ClCompile Include="成绩，平均值，最低，最高，不及格.cpp">
+      <Filter>源文件\结构功能</Filter>
+    </ClCompile>
+    <ClCompile Include="一年中第几天.cpp">
+      <Filter>源文件\结构功能</Filter>
+    </ClCompile>
+    <ClCompile Include="具有该最高分成绩的学生是第几个班的第几个学生.cpp">
+      <Filter>源文件\结构功能</Filter>
+    </ClCompile>
+    <ClCompile Include="用引用和指针排序.cpp">
+      <Filter>源文件\结构功能</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
