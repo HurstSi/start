@@ -1,65 +1,169 @@
-#include <iostream>   // 包含头文件iostream
-#include <cstring>
-using namespace std;  // 使用命名空间std
-class Car
+#include <iostream>  
+using namespace std;
+class Shape
+{        	                		//基类Shape的定义
+public:
+	virtual double getArea() const = 0;	 	//纯虚函数
+	void print() const;
+	virtual ~Shape() { }			       	//虚析构函数
+};
+// Shape类定义结束
+class Circle : public Shape
 {
 public:
-	Car();
-	Car(int pId, char* pBrand, float pPower, int pNumOfPersons);
-	Car(Car& car);
+	Circle(int = 0, int = 0, double = 0.0);
+	virtual double getArea() const;     		//返回面积
+	void print() const;  	                	//输出Circle 类对象t
 private:
-	int id;
-	char* brand;
-	float power;
-	int numOfPersons;
+	int x, y;        		                	//圆心坐标
+	double radius;  		               		//圆半径
 };
-
-Car::Car()
+//派生类Circle定义结束
+class Rectangle : public Shape
 {
-	cout << "Constructed without any parameter." << endl;
-}
-Car::Car(int pId, char* pBrand, float pPower, int pNumOfPersons)
+public:
+	Rectangle(int = 0, int = 0);
+	virtual double getArea() const;
+	void print() const;
+private:
+	int a, b;       		               			//矩形的长和宽
+};
+//派生类Rectangle定义结束
+class Cube : public Shape		      	  //创建一个立方体
 {
-	id = pId;
-	brand = pBrand;
-	power = pPower;
-	numOfPersons = pNumOfPersons;
-	cout << "Constructed with all parameters." << endl;
+public:
+	Cube(int = 0, int = 0, int = 0);     		//构造函数
+	virtual double getArea() const;      	//返回面积
+	void print() const;
+private:
+	int a, b, c;       		               			//矩形的长和宽
+};
+//派生类Cube定义结束
+void Shape::print() const
+{
+	cout << "Base class Object" << endl;
 }
-Car::Car(Car& car)
+//Shape类print()函数定义
+Circle::Circle(int xValue, int yValue, double radiusValue)
+{
+	x = xValue;
+	y = yValue;
+	radius = radiusValue;
+} 						           	//Circle类构造函数
+double Circle::getArea() const
+{
+	cout << "Circle类的getArea函数, 面积是";
+	return 3.14159 * radius * radius;
+} 								        		//Circle类getArea()函数定义
+void Circle::print() const
+{
+	cout << "center is ";
+	cout << "x=" << x << ", y=" << y;
+	cout << "; radius is " << radius << endl;
+}
+//Circle类print()函数定义
+Rectangle::Rectangle(int aValue, int bValue)
+{
+	a = aValue;
+	b = bValue;
+} 					                    	// Rectangle类构造函数
+double Rectangle::getArea() const
 {
 	//start
-// 对成员数据赋值
-//end
-	cout << "Deep Constucted." << endl;
-}
-Car::~Car()
+	//语句完成输出提示信息“Rectangle类的getArea函数, 面积是”
+	//函数返回值为矩形面积
+	//end
+	cout << "Rectangle类的getArea函数, 面积是";
+	return a * b;
+} 					                   	// Rectangle类getArea()函数定义
+void Rectangle::print() const
 {
-	delete[] brand;
-	cout << "Deconstructed." << endl;
+	cout << "hight is " << a;
+	cout << ", width is " << b << endl;
 }
-void Car::printCar()
+// Rectangle类print()函数定义 
+Cube::Cube(int long_value, int weidth_value, int hight_value)
 {
-	cout << "id: " << id << ", "
-		<< "brand: " << brand << ", "
-		<< "power: " << power << ", "
-		<< "numOfPersons: " << numOfPersons << endl;
-}
-void Car::setId(int pId)
+	a = long_value;
+	b = weidth_value;
+	c = hight_value;
+} 					                    	// Rectangle类构造函数
+double Cube::getArea() const
 {
 	//start
-// 对汽车的id赋值
-//end
+	//语句完成输出提示信息“Cube类的getArea函数, 面积是”
+	//函数返回值为立方体面积
+	//end
+	cout << "Cube类的getArea函数, 面积是";
+	return a * b*c;
+} 					                   	// Rectangle类getArea()函数定义
+void Cube::print() const
+{
+	cout << "long is " << a;
+	cout << ", width is " << b;
+	cout << ", height is " << c << endl;
 }
+// Rectangle类print()函数定义 
+void creat_object(Shape *&ptr);
+void display_area(Shape *ptr);
+void delete_object(Shape *ptr);
 int main()
 {
-	Car car1(1001, "丰田", 1.8f, 5);
-	Car car2 = car1;
-	car2.setId(1002);
-	Car car3 = car1;
-	car3.setId(1003);
-	car1.printCar();
-	car2.printCar();
-	car3.printCar();
+	Shape *shape_ptr;
+	creat_object(shape_ptr);
+	display_area(shape_ptr);
+	delete_object(shape_ptr);
 	return 0;
+}
+void creat_object(Shape *&ptr)
+{
+	char type;
+	ptr = NULL;
+	do
+	{
+		cout << "创建对象:输入c创建Circle类对象, 输入r创建Rectangle类对象, 输入b创建Cube类对象" << endl;
+		cin >> type;
+		switch (type)
+		{
+		case 'c':
+		{
+			int xx, yy;
+			double rr;
+			cout << "请输入圆心的坐标和圆的半径:" << endl;
+			cin >> xx >> yy >> rr;
+			ptr = new Circle(xx, yy, rr);
+			break;
+		}
+		case 'r':
+		{
+			int aa, bb;
+			cout << "请输入矩形的长和宽:" << endl;
+			cin >> aa >> bb;
+			ptr = new Rectangle(aa, bb);
+			break;
+		}
+		case 'b':
+		{
+			int aa, bb, cc;
+			cout << "请输入立方体的长,宽,高:" << endl;
+			cin >> aa >> bb >> cc;
+			ptr = new Cube(aa, bb, cc);
+			break;
+		}
+		default:cout << "类型错误, 请重新选择\n";
+		}
+	} while (ptr == NULL);
+}
+void display_area(Shape *ptr)
+{
+	//start
+	//输出提示信息“显示所创建对象的面积, 调用的是”
+	//输出对象面积，调用getArea函数
+	//end
+	cout << "显示所创建对象的面积, 调用的是" << endl;
+	cout << ptr->getArea() << endl;
+}
+void delete_object(Shape *ptr)
+{
+	delete  ptr;
 }

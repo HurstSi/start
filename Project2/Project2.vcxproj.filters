@@ -16,11 +16,35 @@
     <Filter Include="源文件\函数">
       <UniqueIdentifier>{689c8507-2f0e-46f1-a95f-718898d3baef}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\start">
-      <UniqueIdentifier>{34535e70-67b5-455f-8054-2587e7755582}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\结构功能">
       <UniqueIdentifier>{88159c2e-3db4-42bd-a741-22417211df0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.6日上机">
+      <UniqueIdentifier>{e7b639f2-ca6e-484b-9a73-22a9fef10f04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.13日上机">
+      <UniqueIdentifier>{4fce3a3b-eb78-4378-a5d5-26635ad83aa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3.20日上机">
+      <UniqueIdentifier>{e24dceb5-cd66-4746-8bcc-229e96a68e01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\哈利波特">
+      <UniqueIdentifier>{750502eb-fc90-4455-9a47-27bd0c6c6bfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\期末考试归档">
+      <UniqueIdentifier>{5d7564f2-65d1-48e5-8c41-4aa34c2e50ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\选修课1">
+      <UniqueIdentifier>{bcef0a25-0373-4b7c-b47b-5d116ea420eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\选修课2">
+      <UniqueIdentifier>{57a38a0d-9c67-46ae-b9f8-45555a116d16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\选修课3">
+      <UniqueIdentifier>{59e83a09-1387-4436-ac26-ec9ca561570b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\start">
+      <UniqueIdentifier>{34535e70-67b5-455f-8054-2587e7755582}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -135,5 +159,543 @@
     <ClCompile Include="用引用和指针排序.cpp">
       <Filter>源文件\结构功能</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\3.1.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\3.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\4.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\5.1.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\5.11.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\5.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\tempCodeRunnerFile.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\1.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\2 2.cpp">
+      <Filter>源文件\3.6日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\1.1.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\1.2.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\1.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\2.1.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\2.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\3.1.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\3.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\4.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\5.1.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\5.2.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\5.3.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.13日上机\5.cpp">
+      <Filter>源文件\3.13日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\3.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\4.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\5.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\6.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\7.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\8.1.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\8.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\红与灰.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\最长有效括号.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\1.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\2.1.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\2.cpp">
+      <Filter>源文件\3.20日上机</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\焦健\Harry_Potter - 副本.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\焦健\Harry_Potter.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\a.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\b - 副本.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\b.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\xyj.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\2\search.c">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\3.cpp\a.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\4—副本\4\a.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\4—副本\4\b.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\4—副本\4\xyj.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\4—副本\b.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\Final\Harry_Potter - cfree - final.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\Final\Harry_Potter - cfree.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\Final\Harry_Potter - 副本.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\Final\Harry_Potter.cpp">
+      <Filter>源文件\哈利波特</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\11.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\12.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\13.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\A (1).cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\A.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\B.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\c.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\main.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\temp.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\第二题.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\第三题.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\第一题.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\猫狗叫.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\1.12.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\1.13.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\2.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\3.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\4.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\5.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\6.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\7.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\8.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\10.cpp">
+      <Filter>源文件\期末考试归档</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\3.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\4.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\5.1.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\5.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\6.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\7.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\8.1.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\8.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\10.1.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\10.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\11.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\14.1.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\14.2.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\14.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\1.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\2.2.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\2.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\3.1.cpp">
+      <Filter>源文件\选修课1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\4.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\5.1.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\5.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\6.1.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\6.2.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\6.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\7.1.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\7.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\8.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\1.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\2.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\3.cpp">
+      <Filter>源文件\选修课2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业3\4.cpp">
+      <Filter>源文件\选修课3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业3\1.cpp">
+      <Filter>源文件\选修课3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业3\2.cpp">
+      <Filter>源文件\选修课3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\2.exe">
+      <Filter>源文件\3.6日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\3.exe">
+      <Filter>源文件\3.6日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\4.exe">
+      <Filter>源文件\3.6日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\5.1.exe">
+      <Filter>源文件\3.6日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\5.11.exe">
+      <Filter>源文件\3.6日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\5.exe">
+      <Filter>源文件\3.6日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\1.exe">
+      <Filter>源文件\3.6日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\2.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\3.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\4.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\5.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\6.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\7.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\8.1.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\20190320051412806.xls">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\红与灰.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\最长有效括号.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\[BYRBT].CCTV4K.Aerial.China.S02.2019.Complete.HDTV.1080p.H264.AAC-BiTV.torrent">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\[BYRBT].Narcos.Mexico.S01.720p.NF.WEBRip.DD5.1.x264-NG[rartv].torrent">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\[BYRBT].毒枭S01-S03.Narcos.2015-2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY%40FRDS.torrent">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.20日上机\1.exe">
+      <Filter>源文件\3.20日上机</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\b.exe">
+      <Filter>源文件\哈利波特</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\xyj.exe">
+      <Filter>源文件\哈利波特</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\10.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\A (1).exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\A.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\B.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\c.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\main 2.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\main.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\temp.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\第一题.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\猫狗叫.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\1.12.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\2.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\3.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\4.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\5.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\6.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\期末考试归档\7.exe">
+      <Filter>源文件\期末考试归档</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\5.1.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\5.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\6.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\7.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\8.1.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\8.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\10.1.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\10.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\14.1.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\14.2.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\14.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\1.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\2.2.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业1\3.1.exe">
+      <Filter>源文件\选修课1</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\4.exe">
+      <Filter>源文件\选修课2</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\5.1.exe">
+      <Filter>源文件\选修课2</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\5.exe">
+      <Filter>源文件\选修课2</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\6.2.exe">
+      <Filter>源文件\选修课2</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\7.exe">
+      <Filter>源文件\选修课2</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\2.exe">
+      <Filter>源文件\选修课2</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业2\3.exe">
+      <Filter>源文件\选修课2</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业3\4.exe">
+      <Filter>源文件\选修课3</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业3\1.exe">
+      <Filter>源文件\选修课3</Filter>
+    </None>
+    <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业3\2.exe">
+      <Filter>源文件\选修课3</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\data.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\HP2--Harry_Potter_and_the_Chamber_of_Secrets_Book_2_.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\HP7--Harry_Potter_and_the_Deathly_Hallows_Book_7_.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\J.K. Rowling - HP 0 - Harry Potter Prequel.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\J.K. Rowling - HP 3 - Harry Potter and the Prisoner of Azkaban.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\J.K. Rowling - HP 4 - Harry Potter and the Goblet of Fire.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\J.K. Rowling - HP 6 - Harry Potter and the Half-Blood Prince.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\J.K. Rowling - Quidditch Through the Ages.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
+    <Text Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\4\J.K. Rowling - The Tales of Beedle the Bard.txt">
+      <Filter>源文件\哈利波特</Filter>
+    </Text>
   </ItemGroup>
 </Project>
