@@ -474,6 +474,9 @@
     <ClCompile Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\选修课作业3\2.cpp">
       <Filter>源文件\选修课3</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\sizhe\Desktop\0910\bank\test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="C:\Users\sizhe\iCloudDrive\文档\Vscode\3.6日上机\2.exe">

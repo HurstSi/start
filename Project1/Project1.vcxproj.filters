@@ -18,15 +18,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="doing.cpp">
+    <ClCompile Include="C:\Users\sizhe\Desktop\0910\bank\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="fun.cpp">
+    <ClCompile Include="class.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="fun.h">
+    <ClInclude Include="C:\Users\sizhe\Desktop\0910\bank\class.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
